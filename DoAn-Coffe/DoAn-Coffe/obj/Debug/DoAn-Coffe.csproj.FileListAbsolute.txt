@@ -89,3 +89,4 @@ C:\Users\lamtranduc\Documents\DoAn-Coffe\DoAn-Coffe\DoAn-Coffe\bin\Debug\es\DevE
 C:\Users\lamtranduc\Documents\DoAn-Coffe\DoAn-Coffe\DoAn-Coffe\bin\Debug\ja\DevExpress.Office.v16.1.Core.resources.dll
 C:\Users\lamtranduc\Documents\DoAn-Coffe\DoAn-Coffe\DoAn-Coffe\bin\Debug\ru\DevExpress.Office.v16.1.Core.resources.dll
 C:\Users\lamtranduc\Documents\DoAn-Coffe\DoAn-Coffe\DoAn-Coffe\obj\Debug\DoAn_Coffe.ucControl.ucQuanLyTaiKhoan.resources
+C:\Users\lamtranduc\Documents\DoAn-Coffe\DoAn-Coffe\DoAn-Coffe\obj\Debug\DoAn_Coffe.ucControl.ucQuanLySanPham.resources

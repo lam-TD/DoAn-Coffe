@@ -19,7 +19,15 @@ namespace DoAn_Coffe
         private void btnQuanLyTK_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             ucControl.ucQuanLyTaiKhoan ucTK = new ucControl.ucQuanLyTaiKhoan();
+            tableLayoutMain.Controls.Clear();
             tableLayoutMain.Controls.Add(ucTK);
+        }
+
+        private void btnQLSanPham_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            ucControl.ucQuanLySanPham ucSP = new ucControl.ucQuanLySanPham();
+            tableLayoutMain.Controls.Clear();
+            tableLayoutMain.Controls.Add(ucSP);
         }
     }
 }
