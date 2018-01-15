@@ -15,5 +15,11 @@ namespace DoAn_Coffe
         {
             InitializeComponent();
         }
+
+        private void btnQuanLyTK_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            ucControl.ucQuanLyTaiKhoan ucTK = new ucControl.ucQuanLyTaiKhoan();
+            tableLayoutMain.Controls.Add(ucTK);
+        }
     }
 }
