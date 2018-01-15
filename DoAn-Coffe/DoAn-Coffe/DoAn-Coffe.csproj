@@ -63,6 +63,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucControl\ucQuanLyNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucControl\ucQuanLyNhanVien.Designer.cs">
+      <DependentUpon>ucQuanLyNhanVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="ucControl\ucQuanLySanPham.cs">
       <SubType>UserControl</SubType>
     </Compile>
